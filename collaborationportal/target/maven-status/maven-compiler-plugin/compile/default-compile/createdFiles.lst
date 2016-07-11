@@ -1,0 +1,12 @@
+collaborationportal\models\Forum.class
+collaborationportal\dao\LogInDAOImpl.class
+collaborationportal\models\Niitusers.class
+collaborationportal\models\OutputMessage.class
+collaborationportal\controllers\HomeAndLoginController.class
+collaborationportal\dao\NiitUserDAOImpl.class
+collaborationportal\models\Blog.class
+collaborationportal\services\BlogService.class
+collaborationportal\models\Message.class
+collaborationportal\services\NiitUserService.class
+collaborationportal\dao\BlogDAO.class
+collaborationportal\services\LoginService.class
